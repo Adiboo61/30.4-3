@@ -1,0 +1,21 @@
+# ninja log v5
+1	84	7240735584657954	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir	880a8d370a55f272
+1	84	7240735584657954	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir	880a8d370a55f272
+85	10345	7240735687255678	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download	ebc491dd1839d361
+85	10345	7240735687255678	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download	ebc491dd1839d361
+10345	10687	0	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	bf70b9d455a3cdfe
+10345	10687	0	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	bf70b9d455a3cdfe
+10688	10797	7240735691765897	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	296b8382579df77c
+10688	10797	7240735691765897	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	296b8382579df77c
+10797	10907	7240735692847333	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	8b65bf3b9f40a747
+10797	10907	7240735692847333	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	8b65bf3b9f40a747
+10908	11006	7240735693867360	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	66bc62a15307a61d
+10908	11006	7240735693867360	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	66bc62a15307a61d
+11007	11093	7240735694749909	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	b7df368154f9fb1d
+11007	11093	7240735694749909	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	b7df368154f9fb1d
+11094	11174	7240735695553824	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	eae5e9c6835f4c69
+11094	11174	7240735695553824	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	eae5e9c6835f4c69
+11175	11284	7240735696649095	CMakeFiles/zlib-populate-complete	7c2beb37c9483a2d
+11175	11284	7240735696649095	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	7c2beb37c9483a2d
+11175	11284	7240735696649095	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/zlib-subbuild/CMakeFiles/zlib-populate-complete	7c2beb37c9483a2d
+11175	11284	7240735696649095	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	7c2beb37c9483a2d

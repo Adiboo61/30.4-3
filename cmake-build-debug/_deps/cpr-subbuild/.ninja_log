@@ -1,0 +1,21 @@
+# ninja log v5
+1	89	7240735473985000	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-mkdir	382e839f280ead0a
+1	89	7240735473985000	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-mkdir	382e839f280ead0a
+99	6921	7240735542285952	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-download	a64402fcbb68455
+99	6921	7240735542285952	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-download	a64402fcbb68455
+6922	7159	0	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-update	4bb9df414cbd7945
+6922	7159	0	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-update	4bb9df414cbd7945
+7159	7240	7240735545495815	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-patch	2ef17a6f45e8052b
+7159	7240	7240735545495815	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-patch	2ef17a6f45e8052b
+7241	7319	7240735546286863	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-configure	2b7455d66a4b8868
+7241	7319	7240735546286863	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-configure	2b7455d66a4b8868
+7320	7404	7240735547138943	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-build	e799ee26b75489f7
+7320	7404	7240735547138943	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-build	e799ee26b75489f7
+7404	7484	7240735547931278	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-install	d01404ac2ca2e541
+7404	7484	7240735547931278	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-install	d01404ac2ca2e541
+7484	7565	7240735548744651	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-test	598af8c8493cf939
+7484	7565	7240735548744651	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-test	598af8c8493cf939
+7565	7681	7240735549898798	CMakeFiles/cpr-populate-complete	9bb354c8e29be831
+7565	7681	7240735549898798	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-done	9bb354c8e29be831
+7565	7681	7240735549898798	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/cpr-subbuild/CMakeFiles/cpr-populate-complete	9bb354c8e29be831
+7565	7681	7240735549898798	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-done	9bb354c8e29be831

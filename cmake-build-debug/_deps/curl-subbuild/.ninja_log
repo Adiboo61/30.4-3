@@ -1,0 +1,21 @@
+# ninja log v5
+1	83	7240735873777129	curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	ab92867e75a86f48
+1	83	7240735873777129	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	ab92867e75a86f48
+83	6477	7240735937697059	curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	ed25740318a7f3ff
+83	6477	7240735937697059	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	ed25740318a7f3ff
+6477	6568	7240735938594671	curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	4b61e75d426e6313
+6477	6568	7240735938594671	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	4b61e75d426e6313
+6568	6662	7240735939542140	curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	fc3515645daa856c
+6568	6662	7240735939542140	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	fc3515645daa856c
+6662	6757	7240735940499590	curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	9ed765715226e3ee
+6662	6757	7240735940499590	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	9ed765715226e3ee
+6758	6852	7240735941447060	curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	e1943a22d81ae9a4
+6758	6852	7240735941447060	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	e1943a22d81ae9a4
+6852	6950	7240735942424432	curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	c46bda13181e6f9b
+6852	6950	7240735942424432	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	c46bda13181e6f9b
+6950	7053	7240735943451681	curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	1adb5f850ab819e0
+6950	7053	7240735943451681	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	1adb5f850ab819e0
+7054	7376	7240735946637711	CMakeFiles/curl-populate-complete	264587488d620d67
+7054	7376	7240735946637711	curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	264587488d620d67
+7054	7376	7240735946637711	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate-complete	264587488d620d67
+7054	7376	7240735946637711	C:/Users/Admin/Desktop/Сергей/Модуль 30/3/3/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	264587488d620d67

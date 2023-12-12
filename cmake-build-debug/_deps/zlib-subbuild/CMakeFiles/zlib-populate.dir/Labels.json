@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Admin/Desktop/\u0421\u0435\u0440\u0433\u0435\u0439/\u041c\u043e\u0434\u0443\u043b\u044c 30/3/3/cmake-build-debug/_deps/zlib-subbuild/CMakeFiles/zlib-populate"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/\u0421\u0435\u0440\u0433\u0435\u0439/\u041c\u043e\u0434\u0443\u043b\u044c 30/3/3/cmake-build-debug/_deps/zlib-subbuild/CMakeFiles/zlib-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/\u0421\u0435\u0440\u0433\u0435\u0439/\u041c\u043e\u0434\u0443\u043b\u044c 30/3/3/cmake-build-debug/_deps/zlib-subbuild/CMakeFiles/zlib-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/\u0421\u0435\u0440\u0433\u0435\u0439/\u041c\u043e\u0434\u0443\u043b\u044c 30/3/3/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/\u0421\u0435\u0440\u0433\u0435\u0439/\u041c\u043e\u0434\u0443\u043b\u044c 30/3/3/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/\u0421\u0435\u0440\u0433\u0435\u0439/\u041c\u043e\u0434\u0443\u043b\u044c 30/3/3/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/\u0421\u0435\u0440\u0433\u0435\u0439/\u041c\u043e\u0434\u0443\u043b\u044c 30/3/3/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/\u0421\u0435\u0440\u0433\u0435\u0439/\u041c\u043e\u0434\u0443\u043b\u044c 30/3/3/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/\u0421\u0435\u0440\u0433\u0435\u0439/\u041c\u043e\u0434\u0443\u043b\u044c 30/3/3/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/\u0421\u0435\u0440\u0433\u0435\u0439/\u041c\u043e\u0434\u0443\u043b\u044c 30/3/3/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Admin/Desktop/\u0421\u0435\u0440\u0433\u0435\u0439/\u041c\u043e\u0434\u0443\u043b\u044c 30/3/3/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"zlib-populate"
+		],
+		"name" : "zlib-populate"
+	}
+}
