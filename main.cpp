@@ -1,14 +1,24 @@
 #include <iostream>
 #include <cpr/cpr.h>
 #include <map>
-
+#include <vector>
 
 int main() {
     std::string arg = "";
     std::string meaning = "";
     cpr::Response r;
     std::map<std::string, std::string> m;
-    do {
+    std::vector<cpr::Pair> vecpair;
+
+        std::cin >> arg >> meaning;
+        vecpair[0] = cpr::Pair((std::string) arg, (std::string) meaning );
+    std::cin >> arg >> meaning;
+    vecpair[1] = cpr::Pair((std::string) arg, (std::string) meaning );
+
+    r = cpr::Post(cpr::Url("http://httpbin.org/post"),
+                  cpr::Payload(vecpair.begin(), vecpair.end()));
+
+   /* do {
         std::cout << "Enter argument: " <<std::endl;
         std::cin >> arg;
         if (arg != "post"){
@@ -30,7 +40,7 @@ int main() {
 
 
     }while (arg != "get" && arg !="post");
-
+*/
     std::cout << r.text;
 
 	return 0;
